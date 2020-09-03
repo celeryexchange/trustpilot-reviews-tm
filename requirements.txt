@@ -1,11 +1,20 @@
 # essentials 
-# numpy
-# pandas
+numpy
+pandas
+
+# web scraping 
+requests
+bs4
+json
+re
 
 # jupyter notebook related
 ipykernel
 ipython
 
+# eda 
+matplotlib
+seaborn 
+
 # project specific
-requests
 spacy
