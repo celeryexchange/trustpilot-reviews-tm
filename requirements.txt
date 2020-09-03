@@ -1,0 +1,11 @@
+# essentials 
+# numpy
+# pandas
+
+# jupyter notebook related
+ipykernel
+ipython
+
+# project specific
+requests
+spacy
