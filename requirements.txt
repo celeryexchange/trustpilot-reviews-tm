@@ -5,8 +5,6 @@ pandas
 # web scraping 
 requests
 bs4
-json
-re
 
 # jupyter notebook related
 ipykernel
