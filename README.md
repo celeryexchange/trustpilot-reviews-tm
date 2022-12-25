@@ -1,2 +1,2 @@
-# trustpilot-reviews-tm
+# NLP analysis of reviews from Trustpilot
  
